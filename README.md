@@ -1,2 +1,1 @@
-# CSE-110-Repo
-CSE 110 Repo
+Sanjith Devineni's User Page
